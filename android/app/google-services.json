@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "932647379488",
+    "project_id": "github-cf400",
+    "storage_bucket": "github-cf400.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932647379488:android:ad9f26ac21c30f13065245",
+        "android_client_info": {
+          "package_name": "com.github.clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcHI9uNuEwq_tB5OJCQ8-eIRDeUQFYS-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
